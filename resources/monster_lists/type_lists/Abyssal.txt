@@ -1,0 +1,65 @@
+acolyte,1/4,fiend
+barghest,4,fiend
+cambion,5,fiend
+cult-fanatic,2,fiend
+cultist,1/8,fiend
+devourer,13,fiend
+gnoll-fang-of-yeenoghu,4,fiend
+hell-hound,3,fiend
+hellwasp,5,fiend
+howler,8,fiend
+night-hag,5,fiend
+nightmare,3,fiend
+rakshasa,13,fiend
+succubus,4,fiend
+tiamat,30,fiend
+vargouille,1,fiend
+arcanaloth,12,fiend (yugoloth)
+canoloth,8,fiend (yugoloth)
+dhergoloth,7,fiend (yugoloth)
+hydroloth,9,fiend (yugoloth)
+merrenoloth,3,fiend (yugoloth)
+mezzoloth,5,fiend (yugoloth)
+nycaloth,9,fiend (yugoloth)
+oinoloth,12,fiend (yugoloth)
+ultroloth,13,fiend (yugoloth)
+yagnoloth,11,fiend (yugoloth)
+alkilith,11,fiend (demon)
+armanite,7,fiend (demon)
+babau,4,fiend (demon)
+balor,19,fiend (demon)
+baphomet,23,fiend (demon)
+barlgura,5,fiend (demon)
+belaphoss,20,fiend (demon)
+bulezau,3,fiend (demon)
+chasme,6,fiend (demon)
+crokek-toeck,14,fiend (demon)
+demogorgon,26,fiend (demon)
+draegloth,7,fiend (demon)
+dretch,1/4,fiend (demon)
+dybbuk,4,fiend (demon)
+fraz-urb-luu,23,fiend (demon)
+glabrezu,9,fiend (demon)
+goristro,17,fiend (demon)
+graz-zt,24,fiend (demon)
+hezrou,8,fiend (demon)
+juiblex,23,fiend (demon)
+manes,1/8,fiend (demon)
+marilith,16,fiend (demon)
+maurezhi,7,fiend (demon)
+maw-demon,1,fiend (demon)
+molydeus,21,fiend (demon)
+nabassu,15,fiend (demon)
+nalfeshnee,13,fiend (demon)
+orcus,26,fiend (demon)
+quasit,1,fiend (demon)
+rutterkin,2,fiend (demon)
+shadow-demon,4,fiend (demon)
+shoosuva,8,fiend (demon)
+sibriex,18,fiend (demon)
+tanarukk,5,fiend (demon)
+vrock,6,fiend (demon)
+wastrilith,13,fiend (demon)
+yeenoghu,24,fiend (demon)
+yochlol,10,fiend (demon)
+zuggtmoy,23,fiend (demon)

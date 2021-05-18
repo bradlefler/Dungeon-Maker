@@ -1,0 +1,86 @@
+bugbear,1,humanoid (goblinoid)
+bugbear-chief,3,humanoid (goblinoid)
+goblin,1/4,humanoid (goblinoid)
+goblin-boss,1,humanoid (goblinoid)
+hobgoblin,1/2,humanoid (goblinoid)
+hobgoblin-captain,3,humanoid (goblinoid)
+hobgoblin-devastator,4,humanoid (goblinoid)
+hobgoblin-iron-shadow,2,humanoid (goblinoid)
+hobgoblin-warlord,6,humanoid (goblinoid)
+nilbog,1,humanoid (goblinoid)
+adult-oblex,5,ooze
+black-pudding,4,ooze
+elder-oblex,10,ooze
+gelatinous-cube,2,ooze
+gray-ooze,1/2,ooze
+oblex-spawn,1/4,ooze
+ochre-jelly,2,ooze
+slithering-tracker,3,ooze
+berserker,2,humanoid (orc)
+orc,1/2,humanoid (orc)
+orog,2,humanoid (orc)
+adult-black-dragon,14,dragon
+adult-blue-dragon,16,dragon
+adult-brass-dragon,13,dragon
+adult-bronze-dragon,15,dragon
+adult-copper-dragon,14,dragon
+adult-gold-dragon,17,dragon
+adult-green-dragon,15,dragon
+adult-red-dragon,17,dragon
+adult-silver-dragon,16,dragon
+adult-white-dragon,13,dragon
+ambush-drake,1/2,dragon
+ancient-black-dragon,21,dragon
+ancient-blue-dragon,23,dragon
+ancient-brass-dragon,20,dragon
+ancient-bronze-dragon,22,dragon
+ancient-copper-dragon,21,dragon
+ancient-gold-dragon,24,dragon
+ancient-green-dragon,22,dragon
+ancient-red-dragon,24,dragon
+ancient-silver-dragon,23,dragon
+ancient-white-dragon,20,dragon
+black-dragon-wyrmling,2,dragon
+blue-dragon-wyrmling,3,dragon
+brass-dragon-wyrmling,1,dragon
+bronze-dragon-wyrmling,2,dragon
+copper-dragon-wyrmling,1,dragon
+faerie-dragon,1,dragon
+gold-dragon-wyrmling,3,dragon
+green-dragon-wyrmling,2,dragon
+guard-drake,2,dragon
+pseudodragon,1/4,dragon
+red-dragon-wyrmling,4,dragon
+silver-dragon-wyrmling,2,dragon
+white-dragon-wyrmling,2,dragon
+wyvern,6,dragon
+young-black-dragon,7,dragon
+young-blue-dragon,9,dragon
+young-brass-dragon,6,dragon
+young-bronze-dragon,8,dragon
+young-copper-dragon,7,dragon
+young-gold-dragon,10,dragon
+young-green-dragon,8,dragon
+young-red-dragon,10,dragon
+young-red-shadow-dragon,13,dragon
+young-silver-dragon,9,dragon
+young-white-dragon,6,dragon
+giant-spider,1,beast
+giant-rat,1/8,beast
+mimic,2,monstrosity
+ogre,2,giant
+half-ogre,1,giant
+froghemoth,10,monstrosity
+owlbear,3,monstrosity
+tarrasque,30,monstrosity
+skeleton,1/4,undead
+gnoll,1/2,humanoid (gnoll)
+gnoll-flesh-gnawer,1,humanoid (gnoll)
+gnoll-hunter,1/2,humanoid (gnoll)
+gnoll-pack-lord,2,humanoid (gnoll)
+rug-of-smothering,2,construct
+animated-armor,1,construct
+stone-golem,10,construct
+iron-golem,16,construct
+flying-sword,1/4,construct
+clay-golem,9,construct

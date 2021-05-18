@@ -1,0 +1,672 @@
+aarakocra,1/4,humanoid (aarakocra)
+abjurer,9,humanoid (human)
+abjurer,9,humanoid (elf)
+aboleth,10,aberration
+abominable-yeti,9,monstrosity
+acererak,23,undead
+acolyte,1/4,fiend
+adult-black-dragon,14,dragon
+adult-blue-dracolich,17,undead
+adult-blue-dragon,16,dragon
+adult-brass-dragon,13,dragon
+adult-bronze-dragon,15,dragon
+adult-copper-dragon,14,dragon
+adult-gold-dragon,17,dragon
+adult-green-dragon,15,dragon
+adult-kruthik,2,monstrosity
+adult-oblex,5,ooze
+adult-red-dragon,17,dragon
+adult-silver-dragon,16,dragon
+adult-white-dragon,13,dragon
+air-elemental,5,elemental
+air-elemental-myrmidon,7,elemental
+albino-dwarf-warrior,1/4,humanoid (dwarf)
+alhoon,10,undead
+alkilith,11,fiend (demon)
+allip,5,undead
+allosaurus,2,beast
+ambush-drake,1/2,dragon
+amnizu,18,fiend (devil)
+ancient-black-dragon,21,dragon
+ancient-blue-dragon,23,dragon
+ancient-brass-dragon,20,dragon
+ancient-bronze-dragon,22,dragon
+ancient-copper-dragon,21,dragon
+ancient-gold-dragon,24,dragon
+ancient-green-dragon,22,dragon
+ancient-red-dragon,24,dragon
+ancient-shadow,1,undead
+ancient-silver-dragon,23,dragon
+ancient-white-dragon,20,dragon
+androsphinx,17,monstrosity
+animated-armor,1,construct
+ankheg,2,monstrosity
+ankylosaurus,3,beast
+annis-hag,6,fey
+ape,1/2,beast
+apprentice-wizard,1/4,humanoid (human)
+apprentice-wizard,1/4,humanoid (elf)
+arcanaloth,12,fiend (yugoloth)
+archdruid,12,humanoid (elf)
+archer,3,humanoid (human)
+archmage,12,humanoid (human)
+archmage,12,humanoid (elf)
+armanite,7,fiend (demon)
+assassin,8,humanoid (human)
+assassin-vine,3,plant
+astral-dreadnought,21,monstrosity
+atropal,13,undead
+aurochs,2,beast
+autumn-eladrin,10,fey
+awakened-shrub,0,plant
+awakened-tree,2,plant
+axe-beak,1/4,beast
+azer,2,elemental
+babau,4,fiend (demon)
+bael,19,fiend (devil)
+balhannoth,11,aberration
+balor,19,fiend (demon)
+banderhobb,5,monstrosity
+bandit,1/8,humanoid (human)
+bandit-captain,2,humanoid (human)
+banshee,4,undead
+baphomet,23,fiend (demon)
+barbed-devil,5,fiend (devil)
+barghest,4,fiend
+barlgura,5,fiend (demon)
+basilisk,3,monstrosity
+bearded-devil,3,fiend (devil)
+behir,11,monstrosity
+beholder,13,aberration
+beholder-zombie,5,undead
+belaphoss,20,fiend (demon)
+berbalang,2,aberration
+berserker,2,humanoid (human)
+berserker,2,humanoid (orc)
+bheur-hag,7,fey
+black-abishai,7,fiend (devil)
+black-bear,1/2,beast
+black-dragon-wyrmling,2,dragon
+black-gauntlet-of-bane,6,humanoid (human)
+black-pudding,4,ooze
+blackguard,8,humanoid (human)
+blink-dog,1/4,fey
+blood-hawk,1/8,beast
+blue-abishai,17,fiend (devil)
+blue-dragon-wyrmling,3,dragon
+blue-slaad,7,aberration
+boar,1/4,beast
+bodak,6,undead
+boggle,1/8,fey
+bone-devil,9,fiend (devil)
+bone-naga,4,undead
+boneclaw,12,undead
+brass-dragon-wyrmling,1,dragon
+brontosaurus,5,beast
+bronze-dragon-wyrmling,2,dragon
+brown-bear,1,beast
+bugbear,1,humanoid (goblinoid)
+bugbear-chief,3,humanoid (goblinoid)
+bulette,5,monstrosity
+bulezau,3,fiend (demon)
+bullywug,1/4,humanoid (bullywug)
+cadaver-collector,14,construct
+cambion,5,fiend
+camel,1/8,beast
+canoloth,8,fiend (yugoloth)
+carrion-crawler,2,monstrosity
+catoblepas,5,monstrosity
+cave-fisher,3,monstrosity
+centaur,2,monstrosity
+chain-devil,8,fiend (devil)
+chasme,6,fiend (demon)
+chimera,6,monstrosity
+chitine,1/2,monstrosity
+choker,1,aberration
+choldrith,3,monstrosity
+chuul,4,aberration
+clay-golem,9,construct
+cloaker,8,aberration
+cloud-giant,9,giant
+cloud-giant-smiling-one,11,giant
+cockatrice,1/2,monstrosity
+constrictor-snake,1/4,beast
+copper-dragon-wyrmling,1,dragon
+corpse-flower,8,plant
+couatl,4,celestial
+crag-cat,1,beast
+cranium-rat,0,beast
+crawling-claw,0,undead
+crocodile,1/2,beast
+crokek-toeck,14,fiend (demon)
+cult-fanatic,2,fiend
+cultist,1/8,fiend
+cyclops,6,giant
+dao,11,elemental
+darkling,1/2,fey
+darkling-elder,2,fey
+darkmantle,1/2,monstrosity
+death-dog,1,monstrosity
+death-kiss,10,aberration
+death-knight,17,undead
+death-slaad,10,aberration
+death-tyrant,14,undead
+death-s-head-of-bhaal,5,humanoid (human)
+deathlock,4,undead
+deathlock-mastermind,8,undead
+deathlock-wight,3,undead
+deep-gnome-svirfneblin,1/2,humanoid (gnome)
+deep-scion,3,humanoid (shapechanger)
+deinonychus,1,beast
+demilich,18,undead
+demogorgon,26,fiend (demon)
+derro,1/4,humanoid (derro)
+derro-savant,3,humanoid (derro)
+deva,10,celestial
+devilroot,7,plant
+devourer,13,fiend
+dhergoloth,7,fiend (yugoloth)
+dimetrodon,1/4,beast
+dire-troll,13,giant
+dire-wolf,1,beast
+displacer-beast,3,monstrosity
+djinni,11,elemental
+doppelganger,3,monstrosity
+draegloth,7,fiend (demon)
+dragon-turtle,17,dragon
+dretch,1/4,fiend (demon)
+drider,6,monstrosity
+drow,1/4,humanoid (elf)
+drow-arachnomancer,13,humanoid (elf)
+drow-elite-warrior,5,humanoid (elf)
+drow-favored-consort,18,humanoid (elf)
+drow-house-captain,9,humanoid (elf)
+drow-inquisitor,14,humanoid (elf)
+drow-mage,7,humanoid (elf)
+drow-matron-mother,20,humanoid (elf)
+drow-priestress-of-lolth,8,humanoid (elf)
+drow-shadowblade,11,humanoid (elf)
+dryad,1,fey
+duergar,1,humanoid (dwarf)
+duergar-despot,12,humanoid (dwarf)
+duergar-kavalrachni,2,humanoid (dwarf)
+duergar-mind-master,2,humanoid (dwarf)
+duergar-soulblade,1,humanoid (dwarf)
+duergar-stone-guard,2,humanoid (dwarf)
+duergar-warlord,6,humanoid (dwarf)
+duergar-xarrorn,2,humanoid (dwarf)
+duodrone,1/4,construct
+dust-mephit,1/2,elemental
+dybbuk,4,fiend (demon)
+earth-elemental,5,elemental
+earth-elemental-myrmidon,7,elemental
+eblis,1,monstrosity
+efreeti,11,elemental
+eidolon,12,undead
+elder-brain,14,aberration
+elder-oblex,10,ooze
+elder-tempest,23,elemental
+elephant,4,beast
+empyrean,23,celestial
+erinyes,12,fiend (devil)
+ettercap,2,monstrosity
+ettin,4,giant
+faerie-dragon,1,dragon
+female-steeder,1,monstrosity
+fire-elemental,5,elemental
+fire-elemental-myrmidon,7,elemental
+fire-giant,9,giant
+fire-giant-dreadnought,14,giant
+fire-snake,1,elemental
+firenewt-warlock-of-imix,1,humanoid (firenewt)
+firenewt-warrior,1/2,humanoid (firenewt)
+fist-of-bane,1/2,humanoid (human)
+flail-snail,3,elemental
+flameskull,4,undead
+flesh-golem,5,construct
+flind,9,humanoid (gnoll)
+flumph,1/8,aberration
+flying-snake,1/8,beast
+flying-sword,1/4,construct
+fomorian,8,giant
+fraz-urb-luu,23,fiend (demon)
+froghemoth,10,monstrosity
+frost-giant,8,giant
+frost-giant-everlasting-one,12,giant
+frost-salamander,9,elemental
+galeb-duhr,6,elemental
+gargoyle,2,elemental
+gas-spore,1/2,plant
+gauth,6,aberration
+gazer,1/2,aberration
+gelatinous-cube,2,ooze
+geryon,22,fiend (devil)
+ghast,2,undead
+ghost,4,undead
+ghoul,1,undead
+giant-ape,7,beast
+giant-badger,1/4,beast
+giant-bat,1/4,beast
+giant-boar,2,beast
+giant-centipede,1/4,beast
+giant-constrictor-snake,2,beast
+giant-crab,1/8,beast (aquatic)
+giant-crab,1/8,beast
+giant-crocodile,5,beast (aquatic)
+giant-crocodile,5,beast
+giant-eagle,1,beast
+giant-elk,2,beast
+giant-fire-beetle,0,beast
+giant-four-armed-gargoyle,10,elemental
+giant-frog,1/4,beast
+giant-frog,1/4,beast (aquatic)
+giant-goat,1/2,beast
+giant-hyena,1,beast
+giant-lizard,1/4,beast
+giant-owl,1/4,beast
+giant-poisonous-snake,1/4,beast
+giant-rat,1/8,beast
+giant-scorpion,3,beast
+giant-spider,1,beast
+giant-strider,1,monstrosity
+giant-toad,1,beast
+giant-two-headed-goat,1/2,beast
+giant-vulture,1,beast
+giant-wasp,1/2,beast
+giant-weasel,1/8,beast
+giant-wolf-spider,1/4,beast
+gibbering-mouther,2,aberration
+giff,3,humanoid
+girallon,4,monstrosity
+githyanki-gish,10,humanoid (gith)
+githyanki-kith--rak,12,humanoid (gith)
+githyanki-knight,8,humanoid (gith)
+githyanki-supreme-commander,14,humanoid (gith)
+githyanki-warrior,3,humanoid (gith)
+githzerai-anarch,16,humanoid (gith)
+githzerai-enlightned,10,humanoid (gith)
+githzerai-monk,2,humanoid (gith)
+githzerai-zerth,6,humanoid (gith)
+glabrezu,9,fiend (demon)
+gloom-weaver,9,humanoid (elf)
+gnoll,1/2,humanoid (gnoll)
+gnoll-fang-of-yeenoghu,4,fiend
+gnoll-flesh-gnawer,1,humanoid (gnoll)
+gnoll-hunter,1/2,humanoid (gnoll)
+gnoll-pack-lord,2,humanoid (gnoll)
+gnoll-witherling,1/4,undead
+goblin,1/4,humanoid (goblinoid)
+goblin-boss,1,humanoid (goblinoid)
+gold-dragon-wyrmling,3,dragon
+gorgon,5,monstrosity
+goristro,17,fiend (demon)
+gray-ooze,1/2,ooze
+gray-render,12,monstrosity
+gray-slaad,9,aberration
+graz-zt,24,fiend (demon)
+green-abishai,15,fiend (devil)
+green-dragon-wyrmling,2,dragon
+green-hag,3,fey
+green-slaad,8,aberration
+grell,3,aberration
+grick,2,monstrosity
+grick-alpha,7,monstrosity
+griffon,2,monstrosity
+grimlock,1/4,humanoid (grimlock)
+grung,1/4,humanoid (grung)
+grung-elite-warrior,2,humanoid (grung)
+grung-wildling,1,humanoid (grung)
+guard-drake,2,dragon
+guardian-naga,10,monstrosity
+gynosphinx,11,monstrosity
+halaster-blackcloak,23,humanoid (human)
+half-ogre,1,giant
+half-red-dragon-veteran,5,humanoid (human)
+harpy,1,monstrosity
+hell-hound,3,fiend
+hellfire-engine,16,fiend (devil)
+hellwasp,5,fiend
+helmed-horror,4,construct
+hezrou,8,fiend (demon)
+hill-giant,5,giant
+hippogriff,1,monstrosity
+hobgoblin,1/2,humanoid (goblinoid)
+hobgoblin-captain,3,humanoid (goblinoid)
+hobgoblin-devastator,4,humanoid (goblinoid)
+hobgoblin-iron-shadow,2,humanoid (goblinoid)
+hobgoblin-warlord,6,humanoid (goblinoid)
+homunculus,0,construct
+hook-horror,3,monstrosity
+horned-devil,11,fiend (devil)
+howler,8,fiend
+hulking-crab,5,beast
+hulking-crab,5,beast (aquatic)
+hutijin,21,fiend (devil)
+hydra,8,monstrosity
+hydroloth,9,fiend (yugoloth)
+ice-devil,14,fiend (devil)
+ice-mephit,1/2,elemental
+ice-toad,1,monstrosity
+imix,19,elemental
+imp,1,fiend (devil)
+intellect-devourer,2,aberration
+invisible-stalker,6,elemental
+iron-cobra,4,construct
+iron-consul,2,humanoid (human)
+iron-golem,16,construct
+jackalwere,1/2,humanoid (shapechanger)
+jaculi,1/2,beast
+juiblex,23,fiend (demon)
+kamadan,4,monstrosity
+kenku,1/4,humanoid (kenku)
+ki-rin,12,celestial
+kobold,1/8,humanoid (kobold)
+kobold-dragonshield,1,humanoid (kobold)
+kobold-inventor,1/4,humanoid (kobold)
+kobold-scale-sorcerer,1,humanoid (kobold)
+korred,7,fey
+kraken,23,monstrosity
+kruthik-hive-lord,5,monstrosity
+kuo-toa,1/4,humanoid (kuo-toa)
+kuo-toa-archpriest,6,humanoid (kuo-toa)
+kuo-toa-whip,1,humanoid (kuo-toa)
+laeral-silverhand,17,humanoid (human)
+lamia,4,monstrosity
+lemure,0,fiend (devil)
+leucrotta,3,monstrosity
+leviathan,20,elemental
+lich,21,undead
+lion,1,beast
+lizard-king-queen,4,humanoid (lizardfolk)
+lizardfolk,1/2,humanoid (lizardfolk)
+lizardfolk-shaman,2,humanoid (lizardfolk)
+magma-mephit,1/2,elemental
+magmin,1/2,elemental
+male-steeder,1/4,monstrosity
+mammoth,6,beast
+manes,1/8,fiend (demon)
+manshoon,13,humanoid (human)
+manticore,3,monstrosity
+mantrap,1,plant
+marid,11,elemental
+marilith,16,fiend (demon)
+marut,25,construct
+master-of-souls,4,humanoid (human)
+mastiff,1/8,beast
+maurezhi,7,fiend (demon)
+maw-demon,1,fiend (demon)
+meazel,1,humanoid (meazel)
+medusa,6,monstrosity
+meenlock,2,fey
+merfolk,1/8,humanoid (merfolk)
+merregon,4,fiend (devil)
+merrenoloth,3,fiend (yugoloth)
+merrow,2,monstrosity
+mezzoloth,5,fiend (yugoloth)
+mimic,2,monstrosity
+mind-flayer,7,aberration
+mindwitness,5,aberration
+minotaur,3,monstrosity
+minotaur-skeleton,2,undead
+moloch,21,fiend (devil)
+molydeus,21,fiend (demon)
+monodrone,1/8,construct
+morkoth,11,aberration
+mouth-of-grolantor,6,giant
+mud-mephit,1/4,elemental
+mummified-warrior,1/4,undead
+mummy,3,undead
+mummy-lord,15,undead
+myconid-adult,1/2,plant
+myconid-sovereign,2,plant
+myconid-sprout,0,plant
+nabassu,15,fiend (demon)
+nagpa,17,humanoid (nagpa)
+nalfeshnee,13,fiend (demon)
+narzugon,13,fiend (devil)
+necromancer,9,undead
+necromite-of-myrkul,1/2,humanoid (human)
+needle-blight,1/4,plant
+neogi,3,aberration
+neogi-hatchling,1/8,aberration
+neogi-master,4,aberration
+neothelid,13,aberration
+night-blade,1/4,humanoid (human)
+night-hag,5,fiend
+nightmare,3,fiend
+nightwalker,20,undead
+nilbog,1,humanoid (goblinoid)
+nothic,2,aberration
+nupperibo,1/2,fiend (devil)
+nycaloth,9,fiend (yugoloth)
+oblex-spawn,1/4,ooze
+ochre-jelly,2,ooze
+ogre,2,giant
+ogre-battering-ram,4,giant
+ogre-bolt-launcher,2,giant
+ogre-chain-brute,3,giant
+ogre-howdah,2,giant
+ogre-zombie,2,undead
+ogremoch,20,elemental
+oinoloth,12,fiend (yugoloth)
+olhydra,18,elemental
+oni,7,giant
+orc,1/2,humanoid (orc)
+orc-blade-of-ilneval,4,humanoid (orc)
+orc-claw-of-luthic,2,humanoid (orc)
+orc-eye-of-gruumsh,2,humanoid (orc)
+orc-hand-of-yurtrus,2,humanoid (orc)
+orc-red-fang-of-shargaas,3,humanoid (orc)
+orc-war-chief,4,humanoid (orc)
+orcus,26,fiend (demon)
+orog,2,humanoid (orc)
+orthon,10,fiend (devil)
+otyugh,5,aberration
+owlbear,3,monstrosity
+panther,1/4,beast
+pegasus,2,celestial
+pentadrone,2,construct
+peryton,2,monstrosity
+phase-spider,3,monstrosity
+phoenix,16,elemental
+piercer,1/2,monstrosity
+pit-fiend,20,fiend (devil)
+pixie,1/4,fey
+planetar,16,celestial
+plesiosaurus,2,beast
+poisonous-snake,1/8,beast
+polar-bear,2,beast
+pseudodragon,1/4,dragon
+pterafolk,1,monstrosity
+pteranodon,1/4,beast
+purple-worm,15,monstrosity
+purple-wormling,2,monstrosity
+quadrone,1,construct
+quaggoth,2,humanoid (quaggoth)
+quaggoth-spore-servant,1,plant
+quasit,1,fiend (demon)
+quetzalcoatlus,2,beast
+quickling,1,fey
+rakshasa,13,fiend
+reaper-of-bhaal,2,humanoid (human)
+red-abishai,19,fiend (devil)
+red-dragon-wyrmling,4,dragon
+red-slaad,5,aberration
+redcap,3,fey
+remorhaz,11,monstrosity
+retriever,14,construct
+revenant,5,undead
+rhinoceros,2,beast
+roc,11,monstrosity
+roper,5,monstrosity
+rot-troll,9,giant
+rug-of-smothering,2,construct
+rust-monster,1/2,monstrosity
+rutterkin,2,fiend (demon)
+saber-toothed-tiger,2,beast
+sahuagin,1/2,humanoid (sahuagin)
+sahuagin-baron,5,humanoid (sahuagin)
+sahuagin-priestess,2,humanoid (sahuagin)
+salamander,5,elemental
+satyr,1/2,fey
+scarecrow,1,construct
+sea-hag,2,fey
+sea-spawn,1,humanoid
+shadow,1/2,undead
+shadow-dancer,7,humanoid (elf)
+shadow-demon,4,fiend (demon)
+shadow-mastiff,2,monstrosity
+shambling-mound,5,plant
+shield-guardian,7,construct
+shoosuva,8,fiend (demon)
+shrieker,0,plant
+sibriex,18,fiend (demon)
+silver-dragon-wyrmling,2,dragon
+skeleton,1/4,undead
+skulk,1/2,humanoid
+skull-lasher-of-myrkul,1,humanoid (human)
+skull-lord,15,undead
+slaad-tadpole,1/8,aberration
+slithering-tracker,3,ooze
+smoke-mephit,1/4,elemental
+solar,21,celestial
+soul-monger,11,humanoid (elf)
+spawn-of-kyuss,5,undead
+spectator,3,aberration
+specter,1,undead
+spined-devil,2,fiend (devil)
+spirit-naga,8,monstrosity
+spirit-troll,11,giant
+spring-eladrin,10,fey
+sprite,1/4,fey
+star-spawn-grue,1/4,aberration
+star-spawn-hulk,10,aberration
+star-spawn-larva-mage,16,aberration
+star-spawn-mangler,5,aberration
+star-spawn-seer,13,aberration
+steam-mephit,1/4,elemental
+steel-predator,16,construct
+stegosaurus,4,beast
+stirge,1/8,beast
+stone-cursed,1,construct
+stone-giant,7,giant
+stone-giant-dreamwalker,10,giant
+stone-golem,10,construct
+stone-juggernaut,12,construct
+storm-giant,13,giant
+storm-giant-quintessent,16,giant
+su-monster,1,monstrosity
+succubus,4,fiend
+summer-eladrin,10,fey
+swarm-of-bats,1/4,swarm of Tiny beasts
+swarm-of-cranium-rats,5,swarm of Tiny beasts
+swarm-of-insects,1/2,swarm of Tiny beasts
+swarm-of-poisonous-snakes,2,swarm of Tiny beasts
+swarm-of-quippers,1,swarm of Tiny beasts
+swarm-of-rats,1/4,swarm of Tiny beasts
+swarm-of-ravens,1/4,swarm of Tiny beasts
+swarm-of-rot-grubs,1/2,swarm of Tiny beasts
+sword-wraith-commander,8,undead
+sword-wraith-warrior,3,undead
+tabaxi-hunter,1,humanoid (tabaxi)
+tabaxi-minstrel,1/4,humanoid (tabaxi)
+tanarukk,5,fiend (demon)
+tarrasque,30,monstrosity
+the-angry,13,monstrosity
+the-hungry,11,monstrosity
+the-lonely,9,monstrosity
+the-lost,7,monstrosity
+the-wretched,1/4,monstrosity
+thorny,1,plant
+thri-kreen,1,humanoid (thri-kreen)
+tiamat,30,fiend
+tiger,1,beast
+titivilus,16,fiend (devil)
+tlincalli,5,monstrosity
+tortle,1/4,humanoid (tortle)
+tortle-druid,2,humanoid (tortle)
+trapper,3,monstrosity
+treant,9,plant
+tri-flower-frond,1/2,plant
+triceratops,5,beast
+tridrone,1/2,construct
+troglodyte,1/4,humanoid (troglodyte)
+troll,5,giant
+twig-blight,1/8,plant
+tyrannosaurus-rex,8,beast
+ulitharid,9,aberration
+ultroloth,13,fiend (yugoloth)
+umber-hulk,5,monstrosity
+unicorn,5,celestial
+uthgardt-shaman,2,humanoid (human)
+vajra-safahr,13,humanoid (human)
+vampire,13,undead
+vampire-spawn,5,undead
+vampiric-mist,3,undead
+vargouille,1,fiend
+vegepygmy,1/4,plant
+vegepygmy-chief,2,plant
+velociraptor,1/4,beast
+venerable-shadow,2,undead
+venom-troll,7,giant
+vine-blight,1/2,plant
+violet-fungus,1/4,plant
+vrock,6,fiend (demon)
+warhorse-skeleton,1/2,undead
+wastrilith,13,fiend (demon)
+water-elemental,5,elemental
+water-elemental-myrmidon,7,elemental
+water-weird,3,elemental
+werebear,5,humanoid (shapechanger)
+wereboar,4,humanoid (shapechanger)
+wererat,2,humanoid (shapechanger)
+weretiger,4,humanoid (shapechanger)
+werewolf,3,humanoid (shapechanger)
+white-abishai,6,fiend (devil)
+white-dragon-wyrmling,2,dragon
+wight,3,undead
+will-o--wisp,2,undead
+winged-kobold,1/4,humanoid (kobold)
+winter-eladrin,10,fey
+winter-wolf,3,monstrosity
+wolf,1/4,beast
+wood-woad,5,plant
+worg,1/2,monstrosity
+wraith,5,undead
+wyvern,6,dragon
+xorn,5,elemental
+xvart,1/8,humanoid (xvart)
+xvart-warlock-of-raxivort,1,humanoid (xvart)
+yagnoloth,11,fiend (yugoloth)
+yan-c-bin,18,elemental
+yeenoghu,24,fiend (demon)
+yellow-musk-creeper,2,plant
+yellow-musk-zombie,1/4,undead
+yeth-hound,4,fey
+yeti,3,monstrosity
+yochlol,10,fiend (demon)
+young-black-dragon,7,dragon
+young-blue-dragon,9,dragon
+young-brass-dragon,6,dragon
+young-bronze-dragon,8,dragon
+young-copper-dragon,7,dragon
+young-gold-dragon,10,dragon
+young-green-dragon,8,dragon
+young-kruthik,1/8,monstrosity
+young-red-dragon,10,dragon
+young-red-shadow-dragon,13,dragon
+young-remorhaz,5,monstrosity
+young-silver-dragon,9,dragon
+young-white-dragon,6,dragon
+yuan-ti-abomination,7,monstrosity
+yuan-ti-anathema,12,monstrosity
+yuan-ti-broodguard,2,monstrosity
+yuan-ti-malison,3,monstrosity
+yuan-ti-mind-whisperer,4,monstrosity
+yuan-ti-nightmare-speaker,4,monstrosity
+yuan-ti-pit-master,5,monstrosity
+yuan-ti-pureblood,1,monstrosity
+zaratan,22,elemental
+zariel,26,fiend (devil)
+zombie,1/4,undead
+zuggtmoy,23,fiend (demon)

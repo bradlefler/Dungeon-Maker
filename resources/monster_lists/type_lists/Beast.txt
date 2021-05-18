@@ -1,0 +1,74 @@
+allosaurus,2,beast
+ankylosaurus,3,beast
+ape,1/2,beast
+aurochs,2,beast
+axe-beak,1/4,beast
+black-bear,1/2,beast
+blood-hawk,1/8,beast
+boar,1/4,beast
+brontosaurus,5,beast
+brown-bear,1,beast
+camel,1/8,beast
+constrictor-snake,1/4,beast
+crag-cat,1,beast
+cranium-rat,0,beast
+crocodile,1/2,beast
+deinonychus,1,beast
+dimetrodon,1/4,beast
+dire-wolf,1,beast
+elephant,4,beast
+flying-snake,1/8,beast
+giant-ape,7,beast
+giant-badger,1/4,beast
+giant-bat,1/4,beast
+giant-boar,2,beast
+giant-centipede,1/4,beast
+giant-constrictor-snake,2,beast
+giant-crab,1/8,beast
+giant-crocodile,5,beast
+giant-eagle,1,beast
+giant-elk,2,beast
+giant-fire-beetle,0,beast
+giant-frog,1/4,beast
+giant-goat,1/2,beast
+giant-hyena,1,beast
+giant-lizard,1/4,beast
+giant-owl,1/4,beast
+giant-poisonous-snake,1/4,beast
+giant-rat,1/8,beast
+giant-scorpion,3,beast
+giant-spider,1,beast
+giant-toad,1,beast
+giant-two-headed-goat,1/2,beast
+giant-vulture,1,beast
+giant-wasp,1/2,beast
+giant-weasel,1/8,beast
+giant-wolf-spider,1/4,beast
+hulking-crab,5,beast
+jaculi,1/2,beast
+lion,1,beast
+mammoth,6,beast
+mastiff,1/8,beast
+panther,1/4,beast
+plesiosaurus,2,beast
+poisonous-snake,1/8,beast
+polar-bear,2,beast
+pteranodon,1/4,beast
+quetzalcoatlus,2,beast
+rhinoceros,2,beast
+saber-toothed-tiger,2,beast
+stegosaurus,4,beast
+stirge,1/8,beast
+tiger,1,beast
+triceratops,5,beast
+tyrannosaurus-rex,8,beast
+velociraptor,1/4,beast
+wolf,1/4,beast
+swarm-of-bats,1/4,swarm of Tiny beasts
+swarm-of-cranium-rats,5,swarm of Tiny beasts
+swarm-of-insects,1/2,swarm of Tiny beasts
+swarm-of-poisonous-snakes,2,swarm of Tiny beasts
+swarm-of-quippers,1,swarm of Tiny beasts
+swarm-of-rats,1/4,swarm of Tiny beasts
+swarm-of-ravens,1/4,swarm of Tiny beasts
+swarm-of-rot-grubs,1/2,swarm of Tiny beasts

@@ -1,0 +1,54 @@
+acolyte,1/4,fiend
+barghest,4,fiend
+cambion,5,fiend
+cult-fanatic,2,fiend
+cultist,1/8,fiend
+devourer,13,fiend
+gnoll-fang-of-yeenoghu,4,fiend
+hell-hound,3,fiend
+hellwasp,5,fiend
+howler,8,fiend
+night-hag,5,fiend
+nightmare,3,fiend
+rakshasa,13,fiend
+succubus,4,fiend
+tiamat,30,fiend
+vargouille,1,fiend
+arcanaloth,12,fiend (yugoloth)
+canoloth,8,fiend (yugoloth)
+dhergoloth,7,fiend (yugoloth)
+hydroloth,9,fiend (yugoloth)
+merrenoloth,3,fiend (yugoloth)
+mezzoloth,5,fiend (yugoloth)
+nycaloth,9,fiend (yugoloth)
+oinoloth,12,fiend (yugoloth)
+ultroloth,13,fiend (yugoloth)
+yagnoloth,11,fiend (yugoloth)
+amnizu,18,fiend (devil)
+bael,19,fiend (devil)
+barbed-devil,5,fiend (devil)
+bearded-devil,3,fiend (devil)
+black-abishai,7,fiend (devil)
+blue-abishai,17,fiend (devil)
+bone-devil,9,fiend (devil)
+chain-devil,8,fiend (devil)
+erinyes,12,fiend (devil)
+geryon,22,fiend (devil)
+green-abishai,15,fiend (devil)
+hellfire-engine,16,fiend (devil)
+horned-devil,11,fiend (devil)
+hutijin,21,fiend (devil)
+ice-devil,14,fiend (devil)
+imp,1,fiend (devil)
+lemure,0,fiend (devil)
+merregon,4,fiend (devil)
+moloch,21,fiend (devil)
+narzugon,13,fiend (devil)
+nupperibo,1/2,fiend (devil)
+orthon,10,fiend (devil)
+pit-fiend,20,fiend (devil)
+red-abishai,19,fiend (devil)
+spined-devil,2,fiend (devil)
+titivilus,16,fiend (devil)
+white-abishai,6,fiend (devil)
+zariel,26,fiend (devil)
